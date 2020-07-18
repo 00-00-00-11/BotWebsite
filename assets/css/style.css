@@ -27,7 +27,8 @@ html,body {
 
 .sectionImg {
     margin-left: 30px;
-    border-radius: 10px
+    border-radius: 10px;
+    height: 360px;
 }
 
 @media screen and (max-width: 750px) {
